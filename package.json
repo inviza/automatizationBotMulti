@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/inviza/automatizationBotMulti/issues"
   },
-  "homepage": "https://github.com/inviza/automatizationBotMulti#readme"
+  "homepage": "https://github.com/inviza/automatizationBotMulti#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.16",
+    "validator": "^10.9.0"
+  },
+  "devDependencies": {
+    "env-cmd": "^8.0.2",
+    "nodemon": "^1.18.9"
+  }
 }
